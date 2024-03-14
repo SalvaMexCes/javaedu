@@ -32,4 +32,4 @@ public class RiceCostScanner {
             System.out.println("Your total is $" + (price*qty+feeE) );
 
     }
-}pwd
+}
